@@ -1,0 +1,13 @@
+﻿Uczestnicy;Uczestnicy
+Instruktorzy;Instruktorzy
+Cennik;Cennik
+Zajecia;perspektyw_zajecia
+Miejsca;Miejsca
+Platnosci;perspektyw_platnosci
+Pary uczestnikow;uczestnicy_pary
+Lista uczestników Lindy Hop Intermediate;lista_LH_intermediate
+Płatności za Amber Swing;aktualne_platnosci_Amber_Swing
+Harmonogram instruktorów;harmonogram_instruktorzy
+Suma płatności;platnosci_lata
+Wynagrodzenie dla instruktorów;wynagrodzenie_dla_instruktorow
+Harmonogram zajęć;harmonogram_zajec_tydzien
